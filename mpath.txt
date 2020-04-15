@@ -1,1 +1,1 @@
-https://github.com/egedmz/Update-Manager/releases/download/1.4/stak.zip
+https://github.com/egedmz/Update-Manager/releases/download/1.4.1/stak.zip
